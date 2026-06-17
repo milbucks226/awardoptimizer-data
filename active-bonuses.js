@@ -23,5 +23,15 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/50-percent-transfer-bonus-citi-thankyou-accor-all/",
     "verified": "2026-06-15",
     "notes": "50% bonus from Citi ThankYou to ALL Accor (through July 18). Premium cards get 1:0.75 ratio."
+  },
+  "amex-lifemiles-2026-06": {
+    "id": "amex-lifemiles-2026-06",
+    "from": "Amex Membership Rewards",
+    "to": "Avianca LifeMiles",
+    "bonus": 0.15,
+    "expires": "2026-07-15",
+    "source": "https://awardwallet.com/news/amex-membership-rewards/avianca-lifemiles-transfer-bonus/",
+    "verified": "2026-06-17",
+    "notes": "15% bonus from Amex MR to Avianca LifeMiles. Transfers initiated by July 15."
   }
 };

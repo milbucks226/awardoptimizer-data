@@ -23,5 +23,25 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/15-transfer-bonus-from-amex-membership-rewards-to-avianca-lifemiles/",
     "verified": "2026-06-16",
     "notes": "15% bonus from Amex MR to Avianca LifeMiles (through July 15). Minimum 1,000 points per transfer."
+  },
+  "capital-one-eva-2026-07": {
+    "id": "capital-one-eva-2026-07",
+    "from": "Capital One Miles",
+    "to": "EVA Air Infinity MileageLands",
+    "bonus": 0.30,
+    "expires": "2026-07-31",
+    "source": "https://onemileatatime.com/deals/capital-one-eva-air-transfer-bonus/",
+    "verified": "2026-07-01",
+    "notes": "30% bonus from Capital One to EVA Air (July 1-31). Normal ratio is 1,000:750; bonus brings it to ~1,000:975."
+  },
+  "rove-frontier-2026-07": {
+    "id": "rove-frontier-2026-07",
+    "from": "Rove Miles",
+    "to": "Frontier Airlines",
+    "bonus": 0.25,
+    "expires": "2026-07-31",
+    "source": "https://frequentmiler.com/frontier-added-as-a-rove-transfer-partner-get-25-transfer-bonus-through-7-31-26/",
+    "verified": "2026-07-01",
+    "notes": "25% bonus on Rove Miles transfers to Frontier (through July 31). Frontier is a new Rove transfer partner."
   }
 };

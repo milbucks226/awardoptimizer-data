@@ -14,6 +14,56 @@ window.__LIVE_BONUSES = {
     "verified": "2026-06-15",
     "notes": "50% bonus from Citi ThankYou to ALL Accor (through July 18). Premium cards get 1:0.75 ratio."
   },
+  "chase-virgin-atlantic-2026-07": {
+    "id": "chase-virgin-atlantic-2026-07",
+    "from": "Chase Ultimate Rewards",
+    "to": "Virgin Atlantic Flying Club",
+    "bonus": 0.3,
+    "expires": "2026-07-14",
+    "source": "https://frequentmiler.com/chase-ultimate-rewards-virgin-atlantic-30-percent-transfer-bonus/",
+    "verified": "2026-07-02",
+    "notes": "30% bonus from Chase UR to Virgin Atlantic (through July 14)."
+  },
+  "amex-hilton-2026-07": {
+    "id": "amex-hilton-2026-07",
+    "from": "Amex Membership Rewards",
+    "to": "Hilton Honors",
+    "bonus": 0.2,
+    "expires": "2026-07-14",
+    "source": "https://frequentmiler.com/20-percent-transfer-bonus-american-express-membership-rewards-hilton-honors/",
+    "verified": "2026-07-02",
+    "notes": "20% bonus from Amex MR to Hilton Honors (through July 14)."
+  },
+  "amex-virgin-atlantic-2026-07": {
+    "id": "amex-virgin-atlantic-2026-07",
+    "from": "Amex Membership Rewards",
+    "to": "Virgin Atlantic Flying Club",
+    "bonus": 0.3,
+    "expires": "2026-07-31",
+    "source": "https://frequentmiler.com/30-percent-transfer-bonus-american-express-membership-rewards-virgin-atlantic/",
+    "verified": "2026-07-02",
+    "notes": "30% bonus from Amex MR to Virgin Atlantic (through July 31)."
+  },
+  "capitalone-eva-air-2026-07": {
+    "id": "capitalone-eva-air-2026-07",
+    "from": "Capital One Miles",
+    "to": "EVA Air Infinity MileageLands",
+    "bonus": 0.3,
+    "expires": "2026-07-31",
+    "source": "https://frequentmiler.com/30-transfer-bonus-capital-one-miles-eva-air/",
+    "verified": "2026-07-02",
+    "notes": "30% bonus from Capital One to EVA Air (through July 31). Normal ratio 1000:750, with bonus ~1000:975."
+  },
+  "rove-frontier-2026-07": {
+    "id": "rove-frontier-2026-07",
+    "from": "Rove Miles",
+    "to": "Frontier Airlines",
+    "bonus": 0.25,
+    "expires": "2026-07-31",
+    "source": "https://frequentmiler.com/frontier-added-as-a-rove-transfer-partner-get-25-transfer-bonus-through-7-31-26/",
+    "verified": "2026-07-02",
+    "notes": "25% bonus from Rove to Frontier (through July 31). Frontier newly added as Rove transfer partner."
+  },
   "amex-lifemiles-2026-06": {
     "id": "amex-lifemiles-2026-06",
     "from": "Amex Membership Rewards",

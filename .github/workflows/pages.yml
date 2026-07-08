@@ -1,0 +1,43 @@
+# Custom Pages deploy — replaces GitHub's managed "pages build and deployment"
+# workflow, which failed ~30% of deploys in July 2026 with transient
+# "Deployment failed, try again later" errors (always self-healed on the next
+# data push, but emailed a failure alert every time). This version retries the
+# deploy step once after 60s, so transient Pages-service errors recover
+# in-run and alerts only fire for real, persistent problems.
+name: pages build and deployment
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy to GitHub Pages (attempt 1)
+        id: attempt1
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - name: Wait before retry
+        if: steps.attempt1.outcome == 'failure'
+        run: sleep 60
+      - name: Deploy to GitHub Pages (attempt 2)
+        if: steps.attempt1.outcome == 'failure'
+        uses: actions/deploy-pages@v4

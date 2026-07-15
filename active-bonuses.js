@@ -14,26 +14,6 @@ window.__LIVE_BONUSES = {
     "verified": "2026-06-15",
     "notes": "50% bonus from Citi ThankYou to ALL Accor (through July 18). Premium cards get 1:0.75 ratio."
   },
-  "chase-virgin-atlantic-2026-07": {
-    "id": "chase-virgin-atlantic-2026-07",
-    "from": "Chase Ultimate Rewards",
-    "to": "Virgin Atlantic Flying Club",
-    "bonus": 0.3,
-    "expires": "2026-07-14",
-    "source": "https://frequentmiler.com/chase-ultimate-rewards-virgin-atlantic-30-percent-transfer-bonus/",
-    "verified": "2026-07-02",
-    "notes": "30% bonus from Chase UR to Virgin Atlantic (through July 14)."
-  },
-  "amex-hilton-2026-07": {
-    "id": "amex-hilton-2026-07",
-    "from": "Amex Membership Rewards",
-    "to": "Hilton Honors",
-    "bonus": 0.2,
-    "expires": "2026-07-14",
-    "source": "https://frequentmiler.com/20-percent-transfer-bonus-american-express-membership-rewards-hilton-honors/",
-    "verified": "2026-07-02",
-    "notes": "20% bonus from Amex MR to Hilton Honors (through July 14)."
-  },
   "amex-virgin-atlantic-2026-07": {
     "id": "amex-virgin-atlantic-2026-07",
     "from": "Amex Membership Rewards",

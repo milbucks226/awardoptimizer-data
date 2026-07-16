@@ -43,15 +43,5 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/frontier-added-as-a-rove-transfer-partner-get-25-transfer-bonus-through-7-31-26/",
     "verified": "2026-07-02",
     "notes": "25% bonus from Rove to Frontier (through July 31). Frontier newly added as Rove transfer partner."
-  },
-  "amex-lifemiles-2026-06": {
-    "id": "amex-lifemiles-2026-06",
-    "from": "Amex Membership Rewards",
-    "to": "Avianca LifeMiles",
-    "bonus": 0.15,
-    "expires": "2026-07-15",
-    "source": "https://frequentmiler.com/15-transfer-bonus-from-amex-membership-rewards-to-avianca-lifemiles/",
-    "verified": "2026-06-16",
-    "notes": "15% bonus from Amex MR to Avianca LifeMiles (through July 15). Minimum 1,000 points per transfer."
   }
 };

@@ -4,16 +4,6 @@
 // The 5 consumer pages load this BEFORE award-data.js, which falls back to
 // a static copy if this file fails to load.
 window.__LIVE_BONUSES = {
-  "citi-accor-2026-06": {
-    "id": "citi-accor-2026-06",
-    "from": "Citi ThankYou Points",
-    "to": "ALL Accor",
-    "bonus": 0.5,
-    "expires": "2026-07-18",
-    "source": "https://frequentmiler.com/50-percent-transfer-bonus-citi-thankyou-accor-all/",
-    "verified": "2026-06-15",
-    "notes": "50% bonus from Citi ThankYou to ALL Accor (through July 18). Premium cards get 1:0.75 ratio."
-  },
   "amex-virgin-atlantic-2026-07": {
     "id": "amex-virgin-atlantic-2026-07",
     "from": "Amex Membership Rewards",

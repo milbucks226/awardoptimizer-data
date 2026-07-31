@@ -33,5 +33,15 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/frontier-added-as-a-rove-transfer-partner-get-25-transfer-bonus-through-7-31-26/",
     "verified": "2026-07-02",
     "notes": "25% bonus from Rove to Frontier (through July 31). Frontier newly added as Rove transfer partner."
+  },
+  "cathay-asia-miles-10pct-2026-08": {
+    "id": "cathay-asia-miles-10pct-2026-08",
+    "from": "Amex Membership Rewards",
+    "to": "Cathay Pacific Asia Miles",
+    "bonus": 0.10,
+    "expires": "2026-08-28",
+    "source": "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
+    "verified": "2026-07-31",
+    "notes": "10% bonus when transferring to Cathay Pacific Asia Miles (registration required, 10k bonus cap across partners)."
   }
 };

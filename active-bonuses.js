@@ -33,5 +33,15 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/frontier-added-as-a-rove-transfer-partner-get-25-transfer-bonus-through-7-31-26/",
     "verified": "2026-07-02",
     "notes": "25% bonus from Rove to Frontier (through July 31). Frontier newly added as Rove transfer partner."
+  },
+  "capitalone-lifemiles-2026-08": {
+    "id": "capitalone-lifemiles-2026-08",
+    "from": "Capital One Miles",
+    "to": "Avianca LifeMiles",
+    "bonus": 0.15,
+    "expires": "2026-08-31",
+    "source": "https://frequentmiler.com/15-transfer-bonus-from-capital-one-to-lifemiles-avianca/",
+    "verified": "2026-08-01",
+    "notes": "15% bonus from Capital One to Avianca LifeMiles (through August 31)."
   }
 };

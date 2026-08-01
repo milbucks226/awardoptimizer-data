@@ -4,36 +4,6 @@
 // The 5 consumer pages load this BEFORE award-data.js, which falls back to
 // a static copy if this file fails to load.
 window.__LIVE_BONUSES = {
-  "amex-virgin-atlantic-2026-07": {
-    "id": "amex-virgin-atlantic-2026-07",
-    "from": "Amex Membership Rewards",
-    "to": "Virgin Atlantic Flying Club",
-    "bonus": 0.3,
-    "expires": "2026-07-31",
-    "source": "https://frequentmiler.com/30-percent-transfer-bonus-american-express-membership-rewards-virgin-atlantic/",
-    "verified": "2026-07-02",
-    "notes": "30% bonus from Amex MR to Virgin Atlantic (through July 31)."
-  },
-  "capitalone-eva-air-2026-07": {
-    "id": "capitalone-eva-air-2026-07",
-    "from": "Capital One Miles",
-    "to": "EVA Air Infinity MileageLands",
-    "bonus": 0.3,
-    "expires": "2026-07-31",
-    "source": "https://frequentmiler.com/30-transfer-bonus-capital-one-miles-eva-air/",
-    "verified": "2026-07-02",
-    "notes": "30% bonus from Capital One to EVA Air (through July 31). Normal ratio 1000:750, with bonus ~1000:975."
-  },
-  "rove-frontier-2026-07": {
-    "id": "rove-frontier-2026-07",
-    "from": "Rove Miles",
-    "to": "Frontier Airlines",
-    "bonus": 0.25,
-    "expires": "2026-07-31",
-    "source": "https://frequentmiler.com/frontier-added-as-a-rove-transfer-partner-get-25-transfer-bonus-through-7-31-26/",
-    "verified": "2026-07-02",
-    "notes": "25% bonus from Rove to Frontier (through July 31). Frontier newly added as Rove transfer partner."
-  },
   "rove-qantas-2026-07": {
     "id": "rove-qantas-2026-07",
     "from": "Rove Miles",
@@ -43,5 +13,23 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/rove-adds-qantas-as-transfer-partner-launches-with-50-transfer-bonus/",
     "verified": "2026-07-17",
     "notes": "50% bonus from Rove to Qantas Frequent Flyer (through August 14). 1,000 Rove Miles = 1,500 Qantas points."
+  },
+  "cathay-asia-miles-10pct-2026-08": {
+    "id": "cathay-asia-miles-10pct-2026-08",
+    "from": "Amex Membership Rewards",
+    "to": "Cathay Pacific Asia Miles",
+    "bonus": 0.1,
+    "expires": "2026-08-28",
+    "source": "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
+    "verified": "2026-07-31"
+  },
+  "capitalone-lifemiles-2026-08": {
+    "id": "capitalone-lifemiles-2026-08",
+    "from": "Capital One Miles",
+    "to": "Avianca LifeMiles",
+    "bonus": 0.15,
+    "expires": "2026-08-31",
+    "source": "https://frequentmiler.com/15-transfer-bonus-from-capital-one-to-lifemiles-avianca/",
+    "verified": "2026-08-01"
   }
 };

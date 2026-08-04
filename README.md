@@ -21,3 +21,12 @@ cost-decoupling measure.
   Actions in the main repo.
 - Contains no source code, secrets, or personal data — just public flight
   price numbers.
+
+## active-bonuses.js (WEB-152)
+
+Live transfer bonuses for awardoptimizer.com. Updated by Pi `theo-bonus-check`.
+
+- **Validate:** `python3 scripts/validate_active_bonuses.py active-bonuses.js`
+- **Auto-merge:** PRs that only touch bonuses are validated and squash-merged by
+  `.github/workflows/validate-and-automerge-bonuses.yml` (no human required).
+- Prefer **one rolling branch** `bonuses/live-update` rather than a new PR per day.

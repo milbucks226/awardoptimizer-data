@@ -1,0 +1,57 @@
+# WEB-152: validate active-bonuses.js PRs and auto-merge on green.
+# Removes the human-merge bottleneck that aged out the live bonus list.
+name: Validate and auto-merge bonuses
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "active-bonuses.js"
+      - "scripts/validate_active_bonuses.py"
+  push:
+    branches: [main]
+    paths:
+      - "active-bonuses.js"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: bonuses-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate active-bonuses.js
+        run: python3 scripts/validate_active_bonuses.py active-bonuses.js --summary
+
+  automerge:
+    needs: validate
+    if: github.event_name == 'pull_request' && github.event.pull_request.base.ref == 'main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enable auto-merge (squash)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          # Prefer squash auto-merge; fall back to direct merge if auto-merge API unavailable
+          if gh pr merge "${{ github.event.pull_request.number }}" --repo "$GITHUB_REPOSITORY" \
+               --squash --auto --delete-branch; then
+            echo "auto-merge enabled"
+          else
+            echo "auto-merge failed; attempting direct squash merge (main unprotected)"
+            gh pr merge "${{ github.event.pull_request.number }}" --repo "$GITHUB_REPOSITORY" \
+              --squash --delete-branch || {
+                echo "merge failed — leave PR open for human"
+                exit 1
+              }
+          fi

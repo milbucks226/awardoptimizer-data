@@ -31,5 +31,24 @@ window.__LIVE_BONUSES = {
     "expires": "2026-08-31",
     "source": "https://frequentmiler.com/15-transfer-bonus-from-capital-one-to-lifemiles-avianca/",
     "verified": "2026-08-01"
+  },
+  "citi-flyingblue-20pct-2026-07": {
+    "id": "citi-flyingblue-20pct-2026-07",
+    "from": "Citi ThankYou Rewards",
+    "to": "Air France KLM Flying Blue",
+    "bonus": 0.2,
+    "expires": "2026-08-22",
+    "source": "https://frequentmiler.com/citi-thankyou-air-france-klm-flying-blue-20-percent-transfer-bonus/",
+    "verified": "2026-08-12"
+  },
+  "chase-aeroplan-20pct-2026-08": {
+    "id": "chase-aeroplan-20pct-2026-08",
+    "from": "Chase Ultimate Rewards",
+    "to": "Air Canada Aeroplan",
+    "bonus": 0.2,
+    "expires": "2026-09-30",
+    "source": "https://frequentmiler.com/get-20-bonus-when-transferring-chase-ultimate-rewards-to-air-canada-aeroplan-stack-with-10-cardholder-bonus/",
+    "verified": "2026-08-12",
+    "notes": "20% bonus; may stack with cardholder bonus in some cases"
   }
 };

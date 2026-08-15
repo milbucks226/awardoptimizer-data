@@ -4,16 +4,6 @@
 // The 5 consumer pages load this BEFORE award-data.js, which falls back to
 // a static copy if this file fails to load.
 window.__LIVE_BONUSES = {
-  "rove-qantas-2026-07": {
-    "id": "rove-qantas-2026-07",
-    "from": "Rove Miles",
-    "to": "Qantas Frequent Flyer",
-    "bonus": 0.5,
-    "expires": "2026-08-14",
-    "source": "https://frequentmiler.com/rove-adds-qantas-as-transfer-partner-launches-with-50-transfer-bonus/",
-    "verified": "2026-07-17",
-    "notes": "50% bonus from Rove to Qantas Frequent Flyer (through August 14). 1,000 Rove Miles = 1,500 Qantas points."
-  },
   "cathay-asia-miles-10pct-2026-08": {
     "id": "cathay-asia-miles-10pct-2026-08",
     "from": "Amex Membership Rewards",

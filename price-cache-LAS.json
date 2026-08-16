@@ -1,0 +1,19 @@
+{
+  "updated": "2026-08-16",
+  "origin": "LAS",
+  "data": {
+    "LAS": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "business": {
+    "LAS": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "route_freshness": {}
+}

@@ -1,0 +1,19 @@
+{
+  "updated": "2026-08-16",
+  "origin": "IAH",
+  "data": {
+    "IAH": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "business": {
+    "IAH": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "route_freshness": {}
+}

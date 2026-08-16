@@ -1,0 +1,19 @@
+{
+  "updated": "2026-08-16",
+  "origin": "PHX",
+  "data": {
+    "PHX": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "business": {
+    "PHX": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "route_freshness": {}
+}

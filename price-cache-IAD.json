@@ -1,0 +1,19 @@
+{
+  "updated": "2026-08-16",
+  "origin": "IAD",
+  "data": {
+    "IAD": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "business": {
+    "IAD": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "route_freshness": {}
+}

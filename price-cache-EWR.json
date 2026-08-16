@@ -1,0 +1,19 @@
+{
+  "updated": "2026-08-16",
+  "origin": "EWR",
+  "data": {
+    "EWR": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "business": {
+    "EWR": {
+      "near": {},
+      "mid": {},
+      "far": {}
+    }
+  },
+  "route_freshness": {}
+}

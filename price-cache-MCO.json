@@ -3,9 +3,24 @@
   "origin": "MCO",
   "data": {
     "MCO": {
-      "near": {},
-      "mid": {},
-      "far": {}
+      "near": {
+        "ABQ": 198,
+        "ACC": 894,
+        "ADD": 640,
+        "AKL": 1092
+      },
+      "mid": {
+        "ABQ": 164,
+        "ACC": 1095,
+        "AKL": 1374,
+        "ADD": 1428
+      },
+      "far": {
+        "ABQ": 228,
+        "ACC": 863,
+        "AKL": 909,
+        "ADD": 1113
+      }
     }
   },
   "business": {
@@ -15,5 +30,18 @@
       "far": {}
     }
   },
-  "route_freshness": {}
+  "route_freshness": {
+    "MCO|ABQ|near": "2026-08-18T18:38:55Z",
+    "MCO|ABQ|mid": "2026-08-18T18:38:55Z",
+    "MCO|ABQ|far": "2026-08-18T18:38:55Z",
+    "MCO|ACC|mid": "2026-08-18T18:38:55Z",
+    "MCO|ACC|near": "2026-08-18T18:38:55Z",
+    "MCO|ACC|far": "2026-08-18T18:38:55Z",
+    "MCO|ADD|near": "2026-08-18T18:38:55Z",
+    "MCO|AKL|near": "2026-08-18T18:38:55Z",
+    "MCO|AKL|mid": "2026-08-18T18:38:55Z",
+    "MCO|AKL|far": "2026-08-18T18:38:55Z",
+    "MCO|ADD|far": "2026-08-18T18:38:55Z",
+    "MCO|ADD|mid": "2026-08-18T18:38:55Z"
+  }
 }

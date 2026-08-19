@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "origins": [
     "ATL",
     "BOS",
@@ -18,7 +18,7 @@
     "SEA",
     "SFO"
   ],
-  "routes": 6360,
+  "routes": 6660,
   "cabins": [
     "economy",
     "business"

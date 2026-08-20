@@ -528,7 +528,9 @@
         "HNL": 759,
         "OGG": 942,
         "KOA": 809,
-        "GYE": 671
+        "GYE": 671,
+        "LIH": 718,
+        "ITO": 996
       },
       "mid": {
         "LHR": 3656,
@@ -614,7 +616,9 @@
         "HNL": 1141,
         "OGG": 1304,
         "KOA": 1511,
-        "GYE": 1324
+        "GYE": 1324,
+        "LIH": 1257,
+        "ITO": 1895
       },
       "far": {
         "LHR": 2376,
@@ -700,7 +704,9 @@
         "GYE": 546,
         "HNL": 824,
         "OGG": 773,
-        "KOA": 879
+        "KOA": 879,
+        "LIH": 848,
+        "ITO": 963
       }
     }
   },
@@ -1388,6 +1394,12 @@
     "LAS|KOA|mid|business": "2026-08-20T12:50:46Z",
     "LAS|KOA|far|business": "2026-08-20T12:50:46Z",
     "LAS|GYE|near|business": "2026-08-20T12:50:46Z",
-    "LAS|GYE|mid|business": "2026-08-20T12:50:46Z"
+    "LAS|GYE|mid|business": "2026-08-20T12:50:46Z",
+    "LAS|LIH|mid|business": "2026-08-20T15:34:25Z",
+    "LAS|LIH|near|business": "2026-08-20T15:34:25Z",
+    "LAS|LIH|far|business": "2026-08-20T15:34:25Z",
+    "LAS|ITO|near|business": "2026-08-20T15:34:25Z",
+    "LAS|ITO|mid|business": "2026-08-20T15:34:25Z",
+    "LAS|ITO|far|business": "2026-08-20T15:34:25Z"
   }
 }

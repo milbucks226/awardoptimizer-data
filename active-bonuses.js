@@ -4,15 +4,6 @@
 // The 5 consumer pages load this BEFORE award-data.js, which falls back to
 // a static copy if this file fails to load.
 window.__LIVE_BONUSES = {
-  "cathay-asia-miles-10pct-2026-08": {
-    "id": "cathay-asia-miles-10pct-2026-08",
-    "from": "Amex Membership Rewards",
-    "to": "Cathay Pacific Asia Miles",
-    "bonus": 0.1,
-    "expires": "2026-08-28",
-    "source": "https://frequentmiler.com/get-a-10-bonus-when-transferring-bank-or-hotel-points-to-cathay-pacific-asia-miles/",
-    "verified": "2026-07-31"
-  },
   "capitalone-lifemiles-2026-08": {
     "id": "capitalone-lifemiles-2026-08",
     "from": "Capital One Miles",

@@ -4,15 +4,6 @@
 // The 5 consumer pages load this BEFORE award-data.js, which falls back to
 // a static copy if this file fails to load.
 window.__LIVE_BONUSES = {
-  "capitalone-lifemiles-2026-08": {
-    "id": "capitalone-lifemiles-2026-08",
-    "from": "Capital One Miles",
-    "to": "Avianca LifeMiles",
-    "bonus": 0.15,
-    "expires": "2026-08-31",
-    "source": "https://frequentmiler.com/15-transfer-bonus-from-capital-one-to-lifemiles-avianca/",
-    "verified": "2026-08-01"
-  },
   "chase-aeroplan-20pct-2026-08": {
     "id": "chase-aeroplan-20pct-2026-08",
     "from": "Chase Ultimate Rewards",

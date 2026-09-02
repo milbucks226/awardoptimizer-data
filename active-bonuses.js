@@ -22,5 +22,35 @@ window.__LIVE_BONUSES = {
     "expires": "2026-09-19",
     "source": "https://frequentmiler.com/citi-thankyou-leading-hotels-of-the-world-lhw-25-percent-transfer-bonus/",
     "verified": "2026-08-26"
+  },
+  "amex-hilton-30pct-2026-09": {
+    "id": "amex-hilton-30pct-2026-09",
+    "from": "Amex Membership Rewards",
+    "to": "Hilton Honors",
+    "bonus": 0.3,
+    "expires": "2026-10-14",
+    "source": "https://onemileatatime.com/deals/amex-hilton-transfer-bonus/",
+    "verified": "2026-09-02",
+    "notes": "Targeted; 30% bonus (1:2.6 effective)"
+  },
+  "capitalone-jal-30pct-2026-09": {
+    "id": "capitalone-jal-30pct-2026-09",
+    "from": "Capital One Miles",
+    "to": "Japan Airlines Mileage Bank",
+    "bonus": 0.3,
+    "expires": "2026-09-30",
+    "source": "https://frequentmiler.com/capital-one-miles-jal-japan-airlines-30-percent-transfer-bonus/",
+    "verified": "2026-09-02",
+    "notes": "30% bonus (near 1:1 effective)"
+  },
+  "rove-copa-40pct-2026-09": {
+    "id": "rove-copa-40pct-2026-09",
+    "from": "Rove Miles",
+    "to": "Copa Airlines ConnectMiles",
+    "bonus": 0.4,
+    "expires": "2026-09-30",
+    "source": "https://thepointsguy.com/news/rove-copa-connectmiles-transfer-partner/",
+    "verified": "2026-09-02",
+    "notes": "Launch bonus; 40% bonus (1:1.4 effective)"
   }
 };

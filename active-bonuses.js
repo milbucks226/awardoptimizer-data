@@ -52,5 +52,15 @@ window.__LIVE_BONUSES = {
     "source": "https://thepointsguy.com/news/rove-copa-connectmiles-transfer-partner/",
     "verified": "2026-09-02",
     "notes": "Launch bonus; 40% bonus (1:1.4 effective)"
+  },
+  "chase-marriott-70pct-2026-09": {
+    "id": "chase-marriott-70pct-2026-09",
+    "from": "Chase Ultimate Rewards",
+    "to": "Marriott Bonvoy",
+    "bonus": 0.7,
+    "expires": "2026-10-15",
+    "source": "https://onemileatatime.com/deals/chase-marriott-transfer-bonus/",
+    "verified": "2026-09-16",
+    "notes": "70% bonus (1:1.7 effective)"
   }
 };

@@ -14,15 +14,6 @@ window.__LIVE_BONUSES = {
     "verified": "2026-08-12",
     "notes": "20% bonus; may stack with cardholder bonus in some cases"
   },
-  "citi-lhw-25pct-2026-09": {
-    "id": "citi-lhw-25pct-2026-09",
-    "from": "Citi ThankYou Points",
-    "to": "Leading Hotels of the World Leaders Club",
-    "bonus": 0.25,
-    "expires": "2026-09-19",
-    "source": "https://frequentmiler.com/citi-thankyou-leading-hotels-of-the-world-lhw-25-percent-transfer-bonus/",
-    "verified": "2026-08-26"
-  },
   "amex-hilton-30pct-2026-09": {
     "id": "amex-hilton-30pct-2026-09",
     "from": "Amex Membership Rewards",

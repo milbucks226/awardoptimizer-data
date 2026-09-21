@@ -53,5 +53,15 @@ window.__LIVE_BONUSES = {
     "source": "https://onemileatatime.com/deals/chase-marriott-transfer-bonus/",
     "verified": "2026-09-16",
     "notes": "70% bonus (1:1.7 effective)"
+  },
+  "citi-jal-30pct-2026-09": {
+    "id": "citi-jal-30pct-2026-09",
+    "from": "Citi ThankYou Points",
+    "to": "Japan Airlines Mileage Bank",
+    "bonus": 0.3,
+    "expires": "2026-10-24",
+    "source": "https://www.doctorofcredit.com/citi-adds-japan-airlines-as-11-transfer-partner-limited-30-transfer-bonus/",
+    "verified": "2026-09-21",
+    "notes": "30% bonus (1:1.3 effective on annual-fee cards) through Oct 24"
   }
 };

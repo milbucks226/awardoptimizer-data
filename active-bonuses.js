@@ -43,5 +43,35 @@ window.__LIVE_BONUSES = {
     "source": "https://www.doctorofcredit.com/citi-thankyou-points-25-transfer-bonus-to-avianca-lifemiles-11-25-12/",
     "verified": "2026-09-22",
     "notes": "25% bonus on premium cards (1:1.25); 12.5% on others"
+  },
+  "rove-jal-50pct-2026-10": {
+    "id": "rove-jal-50pct-2026-10",
+    "from": "Rove",
+    "to": "Japan Airlines Mileage Bank",
+    "bonus": 0.50,
+    "expires": "2026-10-31",
+    "source": "https://milestalk.com/rove-launches-three-transfer-bonuses-50-to-jal-40-to-flying-blue-and-uo-to-35-on-qatar/",
+    "verified": "2026-10-01",
+    "notes": "50% bonus (1:1.5 effective); transfers by Oct 31 2026"
+  },
+  "rove-flyingblue-40pct-2026-10": {
+    "id": "rove-flyingblue-40pct-2026-10",
+    "from": "Rove",
+    "to": "Air France-KLM Flying Blue",
+    "bonus": 0.40,
+    "expires": "2026-10-31",
+    "source": "https://milestalk.com/rove-launches-three-transfer-bonuses-50-to-jal-40-to-flying-blue-and-uo-to-35-on-qatar/",
+    "verified": "2026-10-01",
+    "notes": "40% bonus (1:1.4 effective); transfers by Oct 31 2026"
+  },
+  "rove-qatar-35pct-2026-10": {
+    "id": "rove-qatar-35pct-2026-10",
+    "from": "Rove",
+    "to": "Qatar Airways Privilege Club",
+    "bonus": 0.35,
+    "expires": "2026-10-31",
+    "source": "https://milestalk.com/rove-launches-three-transfer-bonuses-50-to-jal-40-to-flying-blue-and-uo-to-35-on-qatar/",
+    "verified": "2026-10-01",
+    "notes": "Tiered up to 35% (1:1.35 at 100k+); transfers by Oct 31 2026"
   }
 };

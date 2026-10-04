@@ -73,5 +73,35 @@ window.__LIVE_BONUSES = {
     "source": "https://milestalk.com/rove-launches-three-transfer-bonuses-50-to-jal-40-to-flying-blue-and-uo-to-35-on-qatar/",
     "verified": "2026-10-01",
     "notes": "Tiered up to 35% (1:1.35 at 100k+); transfers by Oct 31 2026"
+  },
+  "citi-qatar-35pct-2026-10": {
+    "id": "citi-qatar-35pct-2026-10",
+    "from": "Citi ThankYou Rewards",
+    "to": "Qatar Airways Privilege Club",
+    "bonus": 0.35,
+    "expires": "2026-10-31",
+    "source": "https://onemileatatime.com/deals/qatar-airways-transfer-bonus/",
+    "verified": "2026-10-04",
+    "notes": "Tiered up to 35% (1:1.35 at 100k+ Avios per transfer); transfers by Oct 31 2026"
+  },
+  "capitalone-baavios-20pct-2026-10": {
+    "id": "capitalone-baavios-20pct-2026-10",
+    "from": "Capital One Miles",
+    "to": "British Airways Executive Club",
+    "bonus": 0.20,
+    "expires": "2026-10-31",
+    "source": "https://onemileatatime.com/deals/capital-one-british-airways-transfer-bonus/",
+    "verified": "2026-10-04",
+    "notes": "20% bonus (1:1.2 effective); transfers by Oct 31 2026"
+  },
+  "amex-flyingblue-25pct-2026-10": {
+    "id": "amex-flyingblue-25pct-2026-10",
+    "from": "Amex Membership Rewards",
+    "to": "Air France-KLM Flying Blue",
+    "bonus": 0.25,
+    "expires": "2026-10-31",
+    "source": "https://onemileatatime.com/deals/amex-flying-blue-transfer-bonus/",
+    "verified": "2026-10-04",
+    "notes": "25% bonus (1:1.25 effective); transfers by Oct 31 2026"
   }
 };

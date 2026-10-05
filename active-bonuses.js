@@ -103,5 +103,15 @@ window.__LIVE_BONUSES = {
     "source": "https://onemileatatime.com/deals/amex-flying-blue-transfer-bonus/",
     "verified": "2026-10-04",
     "notes": "25% bonus (1:1.25 effective); transfers by Oct 31 2026"
+  },
+  "marriott-aeroplan-15pct-2026-10": {
+    "id": "marriott-aeroplan-15pct-2026-10",
+    "from": "Marriott Bonvoy",
+    "to": "Air Canada Aeroplan",
+    "bonus": 0.15,
+    "expires": "2026-10-31",
+    "source": "https://onemileatatime.com/deals/aeroplan-hotel-points-transfer-bonus/",
+    "verified": "2026-10-05",
+    "notes": "15% bonus (1:1.15 effective on base); transfers by Oct 31 2026; Marriott 5k Aeroplan bonus still applies"
   }
 };

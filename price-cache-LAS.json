@@ -530,8 +530,8 @@
         "OGG": 960,
         "KOA": 1006,
         "GYE": 891,
-        "LIH": 697,
-        "ITO": 996
+        "LIH": 1383,
+        "ITO": 1512
       },
       "mid": {
         "LHR": 2052,
@@ -618,8 +618,8 @@
         "OGG": 803,
         "KOA": 903,
         "GYE": 442,
-        "LIH": 897,
-        "ITO": 1008
+        "LIH": 837,
+        "ITO": 873
       },
       "far": {
         "LHR": 2426,
@@ -706,8 +706,8 @@
         "HNL": 952,
         "OGG": 947,
         "KOA": 967,
-        "LIH": 697,
-        "ITO": 945
+        "LIH": 722,
+        "ITO": 970
       }
     }
   },
@@ -1396,11 +1396,11 @@
     "LAS|KOA|far|business": "2026-09-22T03:44:25Z",
     "LAS|GYE|near|business": "2026-09-22T03:44:25Z",
     "LAS|GYE|mid|business": "2026-09-22T03:44:25Z",
-    "LAS|LIH|mid|business": "2026-09-10T15:57:36Z",
-    "LAS|LIH|near|business": "2026-09-10T15:57:36Z",
-    "LAS|LIH|far|business": "2026-09-10T15:57:36Z",
-    "LAS|ITO|near|business": "2026-09-10T15:57:36Z",
-    "LAS|ITO|mid|business": "2026-09-10T15:57:36Z",
-    "LAS|ITO|far|business": "2026-09-10T15:57:36Z"
+    "LAS|LIH|mid|business": "2026-10-06T12:54:36Z",
+    "LAS|LIH|near|business": "2026-10-06T12:54:36Z",
+    "LAS|LIH|far|business": "2026-10-06T12:54:36Z",
+    "LAS|ITO|near|business": "2026-10-06T12:54:36Z",
+    "LAS|ITO|mid|business": "2026-10-06T12:54:36Z",
+    "LAS|ITO|far|business": "2026-10-06T12:54:36Z"
   }
 }

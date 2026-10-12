@@ -113,5 +113,15 @@ window.__LIVE_BONUSES = {
     "source": "https://onemileatatime.com/deals/aeroplan-hotel-points-transfer-bonus/",
     "verified": "2026-10-05",
     "notes": "15% bonus (1:1.15 effective on base); transfers by Oct 31 2026; Marriott 5k Aeroplan bonus still applies"
+  },
+  "wyndham-united-100pct-2026-10": {
+    "id": "wyndham-united-100pct-2026-10",
+    "from": "Wyndham Rewards",
+    "to": "United MileagePlus",
+    "bonus": 1.0,
+    "expires": "2026-10-31",
+    "source": "https://frequentmiler.com/100-transfer-bonus-from-wyndham-rewards-to-united-mileageplus/",
+    "verified": "2026-10-12",
+    "notes": "100% bonus (5:2 effective); unadvertised/login required; max 90k Wyndham points total"
   }
 };

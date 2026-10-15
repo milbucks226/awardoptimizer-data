@@ -4,16 +4,6 @@
 // The 5 consumer pages load this BEFORE award-data.js, which falls back to
 // a static copy if this file fails to load.
 window.__LIVE_BONUSES = {
-  "amex-hilton-30pct-2026-09": {
-    "id": "amex-hilton-30pct-2026-09",
-    "from": "Amex Membership Rewards",
-    "to": "Hilton Honors",
-    "bonus": 0.3,
-    "expires": "2026-10-14",
-    "source": "https://onemileatatime.com/deals/amex-hilton-transfer-bonus/",
-    "verified": "2026-09-02",
-    "notes": "Targeted; 30% bonus (1:2.6 effective)"
-  },
   "chase-marriott-70pct-2026-09": {
     "id": "chase-marriott-70pct-2026-09",
     "from": "Chase Ultimate Rewards",
@@ -48,7 +38,7 @@ window.__LIVE_BONUSES = {
     "id": "rove-jal-50pct-2026-10",
     "from": "Rove",
     "to": "Japan Airlines Mileage Bank",
-    "bonus": 0.50,
+    "bonus": 0.5,
     "expires": "2026-10-31",
     "source": "https://milestalk.com/rove-launches-three-transfer-bonuses-50-to-jal-40-to-flying-blue-and-uo-to-35-on-qatar/",
     "verified": "2026-10-01",
@@ -58,7 +48,7 @@ window.__LIVE_BONUSES = {
     "id": "rove-flyingblue-40pct-2026-10",
     "from": "Rove",
     "to": "Air France-KLM Flying Blue",
-    "bonus": 0.40,
+    "bonus": 0.4,
     "expires": "2026-10-31",
     "source": "https://milestalk.com/rove-launches-three-transfer-bonuses-50-to-jal-40-to-flying-blue-and-uo-to-35-on-qatar/",
     "verified": "2026-10-01",
@@ -88,7 +78,7 @@ window.__LIVE_BONUSES = {
     "id": "capitalone-baavios-20pct-2026-10",
     "from": "Capital One Miles",
     "to": "British Airways Executive Club",
-    "bonus": 0.20,
+    "bonus": 0.2,
     "expires": "2026-10-31",
     "source": "https://onemileatatime.com/deals/capital-one-british-airways-transfer-bonus/",
     "verified": "2026-10-04",

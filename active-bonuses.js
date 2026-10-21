@@ -103,5 +103,15 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/100-transfer-bonus-from-wyndham-rewards-to-united-mileageplus/",
     "verified": "2026-10-12",
     "notes": "100% bonus (5:2 effective); unadvertised/login required; max 90k Wyndham points total"
+  },
+  "amex-marriott-35pct-2026-10": {
+    "id": "amex-marriott-35pct-2026-10",
+    "from": "Amex Membership Rewards",
+    "to": "Marriott Bonvoy",
+    "bonus": 0.35,
+    "expires": "2026-12-10",
+    "source": "https://frequentmiler.com/35-transfer-bonus-from-amex-membership-rewards-to-marriott-bonvoy/",
+    "verified": "2026-10-21",
+    "notes": "35% bonus (1:1.35 effective); US Membership Rewards; transfers Oct 20 through Dec 10 2026"
   }
 };

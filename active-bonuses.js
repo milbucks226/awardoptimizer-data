@@ -113,5 +113,15 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/35-transfer-bonus-from-amex-membership-rewards-to-marriott-bonvoy/",
     "verified": "2026-10-21",
     "notes": "35% bonus (1:1.35 effective); US Membership Rewards; transfers Oct 20 through Dec 10 2026"
+  },
+  "capitalone-virginatlantic-30pct-2026-10": {
+    "id": "capitalone-virginatlantic-30pct-2026-10",
+    "from": "Capital One Miles",
+    "to": "Virgin Atlantic Flying Club",
+    "bonus": 0.3,
+    "expires": "2026-11-20",
+    "source": "https://onemileatatime.com/deals/capital-one-virgin-atlantic-transfer-bonus/",
+    "verified": "2026-10-22",
+    "notes": "30% bonus (1:1.3 effective); transfers Oct 21 through Nov 20 2026"
   }
 };

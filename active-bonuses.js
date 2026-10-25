@@ -4,26 +4,6 @@
 // The 5 consumer pages load this BEFORE award-data.js, which falls back to
 // a static copy if this file fails to load.
 window.__LIVE_BONUSES = {
-  "citi-jal-30pct-2026-09": {
-    "id": "citi-jal-30pct-2026-09",
-    "from": "Citi ThankYou Points",
-    "to": "Japan Airlines Mileage Bank",
-    "bonus": 0.3,
-    "expires": "2026-10-24",
-    "source": "https://www.doctorofcredit.com/citi-adds-japan-airlines-as-11-transfer-partner-limited-30-transfer-bonus/",
-    "verified": "2026-09-21",
-    "notes": "30% bonus (1:1.3 effective on annual-fee cards) through Oct 24"
-  },
-  "citi-lifemiles-25pct-2026-09": {
-    "id": "citi-lifemiles-25pct-2026-09",
-    "from": "Citi ThankYou Rewards",
-    "to": "Avianca LifeMiles",
-    "bonus": 0.25,
-    "expires": "2026-10-24",
-    "source": "https://www.doctorofcredit.com/citi-thankyou-points-25-transfer-bonus-to-avianca-lifemiles-11-25-12/",
-    "verified": "2026-09-22",
-    "notes": "25% bonus on premium cards (1:1.25); 12.5% on others"
-  },
   "rove-jal-50pct-2026-10": {
     "id": "rove-jal-50pct-2026-10",
     "from": "Rove",

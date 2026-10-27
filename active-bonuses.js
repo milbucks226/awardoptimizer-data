@@ -113,5 +113,15 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/american-express-membership-rewards-offering-20-transfer-bonus-to-aeromexico/",
     "verified": "2026-10-25",
     "notes": "20% bonus on the usual 1:1.6 rate (about 1:1.92 effective); expires Oct 30 2026"
+  },
+  "citi-cathay-10pct-2026-10": {
+    "id": "citi-cathay-10pct-2026-10",
+    "from": "Citi ThankYou Rewards",
+    "to": "Cathay Pacific Asia Miles",
+    "bonus": 0.1,
+    "expires": "2026-11-14",
+    "source": "https://frequentmiler.com/10-transfer-bonus-citi-thankyou-rewards-to-cathay-pacific-asia-miles/",
+    "verified": "2026-10-27",
+    "notes": "10% bonus (1,000 = 1,100 on premium cards); transfers Oct 25 through Nov 14 2026 11:59pm ET"
   }
 };

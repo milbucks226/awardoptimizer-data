@@ -104,16 +104,6 @@ window.__LIVE_BONUSES = {
     "verified": "2026-10-22",
     "notes": "30% bonus (1:1.3 effective); transfers Oct 21 through Nov 20 2026"
   },
-  "amex-aeromexico-20pct-2026-10": {
-    "id": "amex-aeromexico-20pct-2026-10",
-    "from": "Amex Membership Rewards",
-    "to": "Aeromexico Club Premier",
-    "bonus": 0.2,
-    "expires": "2026-10-30",
-    "source": "https://frequentmiler.com/american-express-membership-rewards-offering-20-transfer-bonus-to-aeromexico/",
-    "verified": "2026-10-25",
-    "notes": "20% bonus on the usual 1:1.6 rate (about 1:1.92 effective); expires Oct 30 2026"
-  },
   "citi-cathay-10pct-2026-10": {
     "id": "citi-cathay-10pct-2026-10",
     "from": "Citi ThankYou Rewards",

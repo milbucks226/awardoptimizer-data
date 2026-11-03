@@ -33,5 +33,65 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/10-transfer-bonus-citi-thankyou-rewards-to-cathay-pacific-asia-miles/",
     "verified": "2026-10-27",
     "notes": "10% bonus (1,000 = 1,100 on premium cards); transfers Oct 25 through Nov 14 2026 11:59pm ET"
+  },
+  "chase-ihg-80pct-2026-11": {
+    "id": "chase-ihg-80pct-2026-11",
+    "from": "Chase Ultimate Rewards",
+    "to": "IHG One Rewards",
+    "bonus": 0.8,
+    "expires": "2026-12-03",
+    "source": "https://www.doctorofcredit.com/chase-ultimate-rewards-80-transfer-bonus-to-ihg-11-8-5/",
+    "verified": "2026-11-01",
+    "notes": "80% bonus (1:1.8 effective); valid until Dec 3 2026"
+  },
+  "chase-avios-30pct-2026-11": {
+    "id": "chase-avios-30pct-2026-11",
+    "from": "Chase Ultimate Rewards",
+    "to": "British Airways Executive Club",
+    "bonus": 0.3,
+    "expires": "2026-12-01",
+    "source": "https://www.doctorofcredit.com/chase-ultimate-rewards-30-transfer-bonus-to-avios-11-3/",
+    "verified": "2026-11-01",
+    "notes": "30% bonus (1:1.3 effective) to British Airways Avios, also Iberia and Aer Lingus; valid until Dec 1 2026"
+  },
+  "capitalone-flyingblue-20pct-2026-11": {
+    "id": "capitalone-flyingblue-20pct-2026-11",
+    "from": "Capital One Miles",
+    "to": "Air France-KLM Flying Blue",
+    "bonus": 0.2,
+    "expires": "2026-11-30",
+    "source": "https://www.doctorofcredit.com/capital-one-20-transfer-bonus-to-airfrance-klm-flying-blue-11-2-4/",
+    "verified": "2026-11-01",
+    "notes": "20% bonus (1,000 = 1,200); valid until Nov 30 2026"
+  },
+  "chase-wyndham-30pct-2026-11": {
+    "id": "chase-wyndham-30pct-2026-11",
+    "from": "Chase Ultimate Rewards",
+    "to": "Wyndham Rewards",
+    "bonus": 0.3,
+    "expires": "2026-12-03",
+    "source": "https://www.doctorofcredit.com/chase-ultimate-rewards-30-transfer-bonus-to-wyndham-11-3-2/",
+    "verified": "2026-11-01",
+    "notes": "30% bonus (1:1.3 effective); valid until Dec 3 2026"
+  },
+  "amex-virginatlantic-30pct-2026-11": {
+    "id": "amex-virginatlantic-30pct-2026-11",
+    "from": "Amex Membership Rewards",
+    "to": "Virgin Atlantic Flying Club",
+    "bonus": 0.3,
+    "expires": "2026-11-30",
+    "source": "https://www.doctorofcredit.com/american-express-transfer-bonus-30-to-virgin-atlantic-8/",
+    "verified": "2026-11-03",
+    "notes": "30% bonus (1,000 = 1,300); valid until Nov 30 2026. Separate from the Capital One 30% bonus."
+  },
+  "capitalone-copa-30pct-2026-11": {
+    "id": "capitalone-copa-30pct-2026-11",
+    "from": "Capital One Miles",
+    "to": "Copa ConnectMiles",
+    "bonus": 0.3,
+    "expires": "2026-12-01",
+    "source": "https://frequentmiler.com/copa-added-as-new-capital-one-transfer-partner-21-5-30-launch-transfer-bonus/",
+    "verified": "2026-11-03",
+    "notes": "30% launch bonus on the 2:1.5 base (1,000 = 750); bonus through 11:59pm ET Dec 1 2026"
   }
 };

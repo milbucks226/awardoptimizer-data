@@ -153,5 +153,25 @@ window.__LIVE_BONUSES = {
     "source": "https://www.doctorofcredit.com/chase-ultimate-rewards-30-transfer-bonus-to-wyndham-11-3-2/",
     "verified": "2026-11-01",
     "notes": "30% bonus (1:1.3 effective); valid until Dec 3 2026"
+  },
+  "amex-virginatlantic-30pct-2026-11": {
+    "id": "amex-virginatlantic-30pct-2026-11",
+    "from": "Amex Membership Rewards",
+    "to": "Virgin Atlantic Flying Club",
+    "bonus": 0.3,
+    "expires": "2026-11-30",
+    "source": "https://www.doctorofcredit.com/american-express-transfer-bonus-30-to-virgin-atlantic-8/",
+    "verified": "2026-11-03",
+    "notes": "30% bonus (1,000 = 1,300); valid until Nov 30 2026. Separate from the Capital One 30% bonus."
+  },
+  "capitalone-copa-30pct-2026-11": {
+    "id": "capitalone-copa-30pct-2026-11",
+    "from": "Capital One Miles",
+    "to": "Copa ConnectMiles",
+    "bonus": 0.3,
+    "expires": "2026-12-01",
+    "source": "https://frequentmiler.com/copa-added-as-new-capital-one-transfer-partner-21-5-30-launch-transfer-bonus/",
+    "verified": "2026-11-03",
+    "notes": "30% launch bonus on the 2:1.5 base (1,000 = 750); bonus through 11:59pm ET Dec 1 2026"
   }
 };

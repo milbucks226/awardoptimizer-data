@@ -93,5 +93,15 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/copa-added-as-new-capital-one-transfer-partner-21-5-30-launch-transfer-bonus/",
     "verified": "2026-11-03",
     "notes": "30% launch bonus on the 2:1.5 base (1,000 = 750); bonus through 11:59pm ET Dec 1 2026"
+  },
+  "citi-turkish-40pct-2026-11": {
+    "id": "citi-turkish-40pct-2026-11",
+    "from": "Citi ThankYou Rewards",
+    "to": "Turkish Airlines Miles&Smiles",
+    "bonus": 0.4,
+    "expires": "2026-11-30",
+    "source": "https://frequentmiler.com/40-percent-transfer-bonus-citi-thankyou-turkish-milesandsmiles/",
+    "verified": "2026-11-05",
+    "notes": "40% bonus; campaign Nov 1 through Nov 30 2026 23:59 Turkiye time. Cap 50,000 bonus miles; credited after the campaign ends."
   }
 };

@@ -619,7 +619,7 @@
         "KOA": 675,
         "GYE": 586,
         "LIH": 742,
-        "ITO": 873
+        "ITO": 1211
       },
       "far": {
         "LHR": 3540,
@@ -706,7 +706,7 @@
         "HNL": 837,
         "OGG": 837,
         "KOA": 747,
-        "LIH": 707,
+        "LIH": 812,
         "ITO": 941
       }
     }
@@ -1398,9 +1398,9 @@
     "LAS|GYE|mid|business": "2026-10-25T15:40:52Z",
     "LAS|LIH|mid|business": "2026-11-07T21:00:02Z",
     "LAS|LIH|near|business": "2026-11-07T21:00:02Z",
-    "LAS|LIH|far|business": "2026-10-17T03:21:10Z",
+    "LAS|LIH|far|business": "2026-11-07T21:40:02Z",
     "LAS|ITO|near|business": "2026-11-07T21:00:02Z",
-    "LAS|ITO|mid|business": "2026-10-17T03:21:10Z",
+    "LAS|ITO|mid|business": "2026-11-07T21:40:02Z",
     "LAS|ITO|far|business": "2026-11-07T21:00:02Z"
   }
 }

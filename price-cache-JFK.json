@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "origin": "JFK",
   "data": {
     "JFK": {
@@ -1139,9 +1139,9 @@
     "JFK|IAD|far": "2026-11-10T04:00:02Z",
     "JFK|MCO|near": "2026-11-10T04:00:02Z",
     "JFK|MCO|mid": "2026-11-09T03:00:02Z",
-    "JFK|MCO|far": "2026-11-09T02:20:02Z",
-    "JFK|IAH|near": "2026-11-09T02:20:02Z",
-    "JFK|IAH|mid": "2026-11-09T02:20:02Z",
+    "JFK|MCO|far": "2026-11-10T06:20:02Z",
+    "JFK|IAH|near": "2026-11-10T06:20:02Z",
+    "JFK|IAH|mid": "2026-11-10T06:20:02Z",
     "JFK|IAH|far": "2026-11-09T03:00:02Z",
     "JFK|LHR|near|business": "2026-11-07T18:51:29Z",
     "JFK|LHR|mid|business": "2026-11-07T18:51:29Z",

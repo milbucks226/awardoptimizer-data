@@ -4,7 +4,7 @@
   "data": {
     "MIA": {
       "near": {
-        "ABQ": 217,
+        "ABQ": 223,
         "ACC": 1002,
         "ADD": 901,
         "ANC": 297,
@@ -713,10 +713,10 @@
     }
   },
   "route_freshness": {
-    "MIA|ABQ|near": "2026-11-09T20:40:01Z",
-    "MIA|ABQ|mid": "2026-11-09T20:40:01Z",
-    "MIA|ABQ|far": "2026-11-09T20:40:01Z",
-    "MIA|ACC|near": "2026-11-09T20:40:01Z",
+    "MIA|ABQ|near": "2026-11-10T22:40:02Z",
+    "MIA|ABQ|mid": "2026-11-10T22:40:02Z",
+    "MIA|ABQ|far": "2026-11-10T22:40:02Z",
+    "MIA|ACC|near": "2026-11-10T22:40:02Z",
     "MIA|ACC|mid": "2026-11-09T20:40:01Z",
     "MIA|ADD|near": "2026-11-09T20:40:01Z",
     "MIA|ACC|far": "2026-11-09T20:40:01Z",

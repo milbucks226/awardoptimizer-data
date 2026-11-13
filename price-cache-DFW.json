@@ -441,7 +441,7 @@
         "EWR": 172,
         "IAD": 229,
         "MCO": 204,
-        "IAH": 195
+        "IAH": 200
       }
     }
   },
@@ -1145,7 +1145,7 @@
     "DFW|MCO|far": "2026-11-13T18:20:02Z",
     "DFW|IAH|mid": "2026-11-13T18:00:02Z",
     "DFW|IAH|near": "2026-11-13T18:20:02Z",
-    "DFW|IAH|far": "2026-11-12T13:00:02Z",
+    "DFW|IAH|far": "2026-11-13T18:40:02Z",
     "DFW|LHR|near|business": "2026-11-07T18:51:29Z",
     "DFW|LHR|mid|business": "2026-11-07T18:51:29Z",
     "DFW|LHR|far|business": "2026-11-07T18:51:29Z",

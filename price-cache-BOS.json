@@ -4,7 +4,7 @@
   "data": {
     "BOS": {
       "near": {
-        "ABQ": 286,
+        "ABQ": 249,
         "ACC": 880,
         "ADD": 875,
         "ANC": 563,
@@ -714,13 +714,13 @@
     }
   },
   "route_freshness": {
-    "BOS|ABQ|near": "2026-11-13T12:20:02Z",
-    "BOS|ACC|near": "2026-11-13T12:20:02Z",
-    "BOS|ABQ|far": "2026-11-13T12:20:02Z",
-    "BOS|ABQ|mid": "2026-11-13T12:20:02Z",
-    "BOS|ACC|mid": "2026-11-13T12:20:02Z",
+    "BOS|ABQ|near": "2026-11-14T14:20:02Z",
+    "BOS|ACC|near": "2026-11-14T14:20:02Z",
+    "BOS|ABQ|far": "2026-11-14T14:20:02Z",
+    "BOS|ABQ|mid": "2026-11-14T14:20:02Z",
+    "BOS|ACC|mid": "2026-11-14T14:20:02Z",
     "BOS|ADD|near": "2026-11-13T12:20:02Z",
-    "BOS|ACC|far": "2026-11-13T12:20:02Z",
+    "BOS|ACC|far": "2026-11-14T14:20:02Z",
     "BOS|ADD|far": "2026-11-13T12:20:02Z",
     "BOS|ADD|mid": "2026-11-13T12:20:02Z",
     "BOS|AKL|near": "2026-11-13T12:20:02Z",

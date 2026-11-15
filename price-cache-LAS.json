@@ -619,7 +619,7 @@
         "KOA": 787,
         "GYE": 596,
         "LIH": 717,
-        "ITO": 1211
+        "ITO": 1078
       },
       "far": {
         "LHR": 3540,
@@ -1400,7 +1400,7 @@
     "LAS|LIH|near|business": "2026-11-15T08:00:01Z",
     "LAS|LIH|far|business": "2026-11-15T08:00:01Z",
     "LAS|ITO|near|business": "2026-11-15T06:40:02Z",
-    "LAS|ITO|mid|business": "2026-11-07T21:40:02Z",
+    "LAS|ITO|mid|business": "2026-11-15T09:20:02Z",
     "LAS|ITO|far|business": "2026-11-15T06:40:02Z"
   }
 }

@@ -619,7 +619,7 @@
         "OGG": 1022,
         "KOA": 1016,
         "LIH": 1018,
-        "ITO": 2700
+        "ITO": 1975
       },
       "far": {
         "LHR": 1675,
@@ -707,7 +707,7 @@
         "OGG": 1007,
         "KOA": 1333,
         "LIH": 1047,
-        "ITO": 2229
+        "ITO": 2216
       }
     }
   },
@@ -1387,7 +1387,7 @@
     "IAD|GYE|near|business": "2026-11-15T21:40:01Z",
     "IAD|GYE|mid|business": "2026-11-15T21:40:01Z",
     "IAD|GYE|far|business": "2026-11-15T21:40:01Z",
-    "IAD|HNL|near|business": "2026-11-08T00:20:02Z",
+    "IAD|HNL|near|business": "2026-11-15T22:00:01Z",
     "IAD|HNL|mid|business": "2026-11-15T21:40:01Z",
     "IAD|HNL|far|business": "2026-11-15T21:40:01Z",
     "IAD|OGG|near|business": "2026-11-15T21:40:01Z",
@@ -1400,7 +1400,7 @@
     "IAD|LIH|mid|business": "2026-11-15T21:40:01Z",
     "IAD|LIH|far|business": "2026-11-15T21:40:01Z",
     "IAD|ITO|near|business": "2026-11-15T21:40:01Z",
-    "IAD|ITO|mid|business": "2026-11-08T00:20:02Z",
-    "IAD|ITO|far|business": "2026-11-08T00:20:02Z"
+    "IAD|ITO|mid|business": "2026-11-15T22:00:01Z",
+    "IAD|ITO|far|business": "2026-11-15T22:00:01Z"
   }
 }

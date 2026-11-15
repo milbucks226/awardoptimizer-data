@@ -24,16 +24,6 @@ window.__LIVE_BONUSES = {
     "verified": "2026-10-22",
     "notes": "30% bonus (1:1.3 effective); transfers Oct 21 through Nov 20 2026"
   },
-  "citi-cathay-10pct-2026-10": {
-    "id": "citi-cathay-10pct-2026-10",
-    "from": "Citi ThankYou Rewards",
-    "to": "Cathay Pacific Asia Miles",
-    "bonus": 0.1,
-    "expires": "2026-11-14",
-    "source": "https://frequentmiler.com/10-transfer-bonus-citi-thankyou-rewards-to-cathay-pacific-asia-miles/",
-    "verified": "2026-10-27",
-    "notes": "10% bonus (1,000 = 1,100 on premium cards); transfers Oct 25 through Nov 14 2026 11:59pm ET"
-  },
   "chase-ihg-80pct-2026-11": {
     "id": "chase-ihg-80pct-2026-11",
     "from": "Chase Ultimate Rewards",
@@ -103,15 +93,5 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/40-percent-transfer-bonus-citi-thankyou-turkish-milesandsmiles/",
     "verified": "2026-11-05",
     "notes": "40% bonus; campaign Nov 1 through Nov 30 2026 23:59 Turkiye time. Cap 50,000 bonus miles; credited after the campaign ends."
-  },
-  "rove-jetblue-20pct-2026-11": {
-    "id": "rove-jetblue-20pct-2026-11",
-    "from": "Rove Miles",
-    "to": "JetBlue TrueBlue",
-    "bonus": 0.2,
-    "expires": "2026-11-14",
-    "source": "https://frequentmiler.com/rove-adds-jetblue-as-its-newest-transfer-partner/",
-    "verified": "2026-11-08",
-    "notes": "20% launch bonus on a 1:1 base (1,000 = 1,200); through November 14 2026"
   }
 };

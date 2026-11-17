@@ -93,5 +93,25 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/40-percent-transfer-bonus-citi-thankyou-turkish-milesandsmiles/",
     "verified": "2026-11-05",
     "notes": "40% bonus; campaign Nov 1 through Nov 30 2026 23:59 Turkiye time. Cap 50,000 bonus miles; credited after the campaign ends."
+  },
+  "amex-avianca-10pct-2026-11": {
+    "id": "amex-avianca-10pct-2026-11",
+    "from": "Amex Membership Rewards",
+    "to": "Avianca LifeMiles",
+    "bonus": 0.1,
+    "expires": "2026-12-16",
+    "source": "https://frequentmiler.com/10-transfer-bonus-to-avianca-lifemiles-from-amex-membership-rewards/",
+    "verified": "2026-11-17",
+    "notes": "10% bonus (1,000 = 1,100); through Dec 16 2026. Minimum 1,000 points, maximum 750,000."
+  },
+  "capitalone-qatar-15pct-2026-11": {
+    "id": "capitalone-qatar-15pct-2026-11",
+    "from": "Capital One Miles",
+    "to": "Qatar Airways Privilege Club",
+    "bonus": 0.15,
+    "expires": "2026-12-14",
+    "source": "https://frequentmiler.com/15-transfer-bonus-to-qatar-privilege-club-from-capital-one-miles/",
+    "verified": "2026-11-17",
+    "notes": "15% bonus to Qatar Avios; ends 11:59pm ET Dec 14 2026."
   }
 };

@@ -113,5 +113,15 @@ window.__LIVE_BONUSES = {
     "source": "https://frequentmiler.com/15-transfer-bonus-to-qatar-privilege-club-from-capital-one-miles/",
     "verified": "2026-11-17",
     "notes": "15% bonus to Qatar Avios; ends 11:59pm ET Dec 14 2026."
+  },
+  "chase-virginatlantic-40pct-2026-11": {
+    "id": "chase-virginatlantic-40pct-2026-11",
+    "from": "Chase Ultimate Rewards",
+    "to": "Virgin Atlantic Flying Club",
+    "bonus": 0.4,
+    "expires": "2026-12-30",
+    "source": "https://www.doctorofcredit.com/chase-ultimate-rewards-40-transfer-bonus-to-virgin-atlantic-11-4-4/",
+    "verified": "2026-11-18",
+    "notes": "40% bonus (1:1.4); valid until Dec 30 2026. Separate from the Amex and Capital One Virgin bonuses."
   }
 };

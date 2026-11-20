@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "origin": "BOS",
   "data": {
     "BOS": {
@@ -714,13 +714,13 @@
     }
   },
   "route_freshness": {
-    "BOS|ABQ|near": "2026-11-19T04:00:02Z",
-    "BOS|ACC|near": "2026-11-19T04:00:02Z",
-    "BOS|ABQ|far": "2026-11-19T04:00:02Z",
-    "BOS|ABQ|mid": "2026-11-19T04:00:02Z",
-    "BOS|ACC|mid": "2026-11-19T04:00:02Z",
+    "BOS|ABQ|near": "2026-11-20T06:00:02Z",
+    "BOS|ACC|near": "2026-11-20T06:00:02Z",
+    "BOS|ABQ|far": "2026-11-20T06:00:02Z",
+    "BOS|ABQ|mid": "2026-11-20T06:00:02Z",
+    "BOS|ACC|mid": "2026-11-20T06:00:02Z",
     "BOS|ADD|near": "2026-11-19T09:20:02Z",
-    "BOS|ACC|far": "2026-11-19T04:00:02Z",
+    "BOS|ACC|far": "2026-11-20T06:00:02Z",
     "BOS|ADD|far": "2026-11-19T07:00:02Z",
     "BOS|ADD|mid": "2026-11-19T09:20:02Z",
     "BOS|AKL|near": "2026-11-19T09:20:02Z",

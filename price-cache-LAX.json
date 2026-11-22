@@ -530,7 +530,7 @@
         "GYE": 809,
         "HNL": 656,
         "OGG": 733,
-        "KOA": 875,
+        "KOA": 733,
         "LIH": 860,
         "ITO": 934
       },
@@ -610,7 +610,7 @@
         "GRU": 1468,
         "SCL": 1508,
         "EZE": 2106,
-        "GIG": 1456,
+        "GIG": 1463,
         "CTG": 726,
         "UIO": 899,
         "CUZ": 1921,
@@ -707,7 +707,7 @@
         "HNL": 733,
         "OGG": 754,
         "KOA": 787,
-        "LIH": 694,
+        "LIH": 674,
         "ITO": 979
       }
     }
@@ -1342,7 +1342,7 @@
     "LAX|SYD|near|business": "2026-11-22T18:45:02Z",
     "LAX|MLE|far|business": "2026-11-22T18:45:02Z",
     "LAX|AKL|near|business": "2026-11-22T18:45:02Z",
-    "LAX|SYD|far|business": "2026-11-15T10:00:02Z",
+    "LAX|SYD|far|business": "2026-11-22T19:00:02Z",
     "LAX|SYD|mid|business": "2026-11-22T18:45:02Z",
     "LAX|AKL|mid|business": "2026-11-22T18:45:02Z",
     "LAX|MEL|near|business": "2026-11-22T18:45:02Z",
@@ -1372,7 +1372,7 @@
     "LAX|GIG|near|business": "2026-11-22T18:45:02Z",
     "LAX|EZE|far|business": "2026-11-22T18:45:02Z",
     "LAX|CTG|near|business": "2026-11-22T18:45:02Z",
-    "LAX|GIG|mid|business": "2026-11-15T10:00:02Z",
+    "LAX|GIG|mid|business": "2026-11-22T19:00:02Z",
     "LAX|GIG|far|business": "2026-11-15T10:40:02Z",
     "LAX|CTG|mid|business": "2026-11-22T18:45:02Z",
     "LAX|UIO|near|business": "2026-11-22T18:45:02Z",
@@ -1392,7 +1392,7 @@
     "LAX|OGG|near|business": "2026-11-22T18:45:02Z",
     "LAX|HNL|mid|business": "2026-11-22T18:45:02Z",
     "LAX|HNL|far|business": "2026-11-22T18:45:02Z",
-    "LAX|KOA|near|business": "2026-11-15T10:00:02Z",
+    "LAX|KOA|near|business": "2026-11-22T19:00:02Z",
     "LAX|OGG|mid|business": "2026-11-22T18:45:02Z",
     "LAX|OGG|far|business": "2026-11-22T18:45:02Z",
     "LAX|KOA|mid|business": "2026-11-22T18:45:02Z",
@@ -1400,7 +1400,7 @@
     "LAX|KOA|far|business": "2026-11-15T10:00:02Z",
     "LAX|ITO|near|business": "2026-11-22T18:45:02Z",
     "LAX|LIH|mid|business": "2026-11-22T18:45:02Z",
-    "LAX|LIH|far|business": "2026-11-15T10:00:02Z",
+    "LAX|LIH|far|business": "2026-11-22T19:00:02Z",
     "LAX|ITO|mid|business": "2026-11-15T10:40:02Z",
     "LAX|ITO|far|business": "2026-11-22T18:45:02Z"
   }

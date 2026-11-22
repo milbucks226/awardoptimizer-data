@@ -530,7 +530,7 @@
         "OGG": 1065,
         "KOA": 1030,
         "LIH": 1147,
-        "ITO": 1206,
+        "ITO": 1541,
         "SCL": 924
       },
       "mid": {
@@ -704,7 +704,7 @@
         "GYE": 500,
         "HNL": 1061,
         "OGG": 1143,
-        "KOA": 993,
+        "KOA": 1085,
         "LIH": 1453,
         "ITO": 1827,
         "LYS": 3753
@@ -1373,7 +1373,7 @@
     "MCO|GIG|mid|business": "2026-11-22T18:30:02Z",
     "MCO|GIG|far|business": "2026-11-22T18:30:02Z",
     "MCO|CTG|near|business": "2026-11-22T18:45:02Z",
-    "MCO|CTG|mid|business": "2026-11-15T09:40:02Z",
+    "MCO|CTG|mid|business": "2026-11-22T19:00:02Z",
     "MCO|UIO|near|business": "2026-11-22T18:30:02Z",
     "MCO|CTG|far|business": "2026-11-22T18:30:02Z",
     "MCO|UIO|mid|business": "2026-11-22T18:30:02Z",
@@ -1395,9 +1395,9 @@
     "MCO|OGG|far|business": "2026-11-22T18:30:02Z",
     "MCO|KOA|near|business": "2026-11-22T18:30:02Z",
     "MCO|KOA|mid|business": "2026-11-22T18:30:02Z",
-    "MCO|KOA|far|business": "2026-11-15T09:40:02Z",
+    "MCO|KOA|far|business": "2026-11-22T19:00:02Z",
     "MCO|LIH|near|business": "2026-11-22T18:30:02Z",
-    "MCO|ITO|near|business": "2026-11-15T09:40:02Z",
+    "MCO|ITO|near|business": "2026-11-22T19:00:02Z",
     "MCO|LIH|mid|business": "2026-11-22T18:30:02Z",
     "MCO|LIH|far|business": "2026-11-22T18:30:02Z",
     "MCO|ITO|far|business": "2026-11-22T18:30:02Z",

@@ -526,12 +526,12 @@
         "UIO": 978,
         "CUZ": 1800,
         "MVD": 2865,
-        "GYE": 1086,
+        "GYE": 781,
         "HNL": 952,
         "OGG": 772,
         "KOA": 782,
         "LIH": 828,
-        "ITO": 1183
+        "ITO": 1115
       },
       "mid": {
         "LHR": 2226,
@@ -617,8 +617,8 @@
         "GYE": 650,
         "HNL": 739,
         "OGG": 664,
-        "KOA": 763,
-        "LIH": 694,
+        "KOA": 834,
+        "LIH": 674,
         "ITO": 1049
       },
       "far": {
@@ -704,7 +704,7 @@
         "MVD": 1928,
         "GYE": 761,
         "HNL": 808,
-        "OGG": 830,
+        "OGG": 967,
         "KOA": 801,
         "LIH": 683,
         "ITO": 1119
@@ -1384,7 +1384,7 @@
     "SFO|CUZ|far|business": "2026-11-23T06:15:02Z",
     "SFO|MVD|mid|business": "2026-11-23T05:45:02Z",
     "SFO|MVD|far|business": "2026-11-23T06:15:02Z",
-    "SFO|GYE|near|business": "2026-11-15T21:20:01Z",
+    "SFO|GYE|near|business": "2026-11-23T06:45:02Z",
     "SFO|HNL|near|business": "2026-11-23T06:15:02Z",
     "SFO|GYE|mid|business": "2026-11-23T06:15:02Z",
     "SFO|GYE|far|business": "2026-11-23T05:45:02Z",
@@ -1393,12 +1393,12 @@
     "SFO|OGG|near|business": "2026-11-23T05:45:02Z",
     "SFO|OGG|mid|business": "2026-11-23T06:15:02Z",
     "SFO|KOA|near|business": "2026-11-23T06:15:02Z",
-    "SFO|OGG|far|business": "2026-11-15T21:00:01Z",
-    "SFO|KOA|mid|business": "2026-11-15T21:00:01Z",
+    "SFO|OGG|far|business": "2026-11-23T06:45:02Z",
+    "SFO|KOA|mid|business": "2026-11-23T06:45:02Z",
     "SFO|KOA|far|business": "2026-11-23T06:15:02Z",
     "SFO|LIH|near|business": "2026-11-23T06:15:02Z",
-    "SFO|LIH|mid|business": "2026-11-15T21:00:01Z",
-    "SFO|ITO|near|business": "2026-11-15T21:20:01Z",
+    "SFO|LIH|mid|business": "2026-11-23T06:45:02Z",
+    "SFO|ITO|near|business": "2026-11-23T06:45:02Z",
     "SFO|LIH|far|business": "2026-11-23T05:45:02Z",
     "SFO|ITO|mid|business": "2026-11-23T05:45:02Z",
     "SFO|ITO|far|business": "2026-11-23T06:15:02Z"

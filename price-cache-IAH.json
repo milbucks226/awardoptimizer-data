@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "origin": "IAH",
   "data": {
     "IAH": {
@@ -1151,7 +1151,7 @@
     "IAH|CDG|mid|business": "2026-11-22T18:30:02Z",
     "IAH|CDG|far|business": "2026-11-22T18:30:02Z",
     "IAH|AMS|near|business": "2026-11-22T18:30:02Z",
-    "IAH|AMS|mid|business": "2026-11-15T16:40:02Z",
+    "IAH|AMS|mid|business": "2026-11-23T05:45:02Z",
     "IAH|AMS|far|business": "2026-11-22T18:30:02Z",
     "IAH|FRA|near|business": "2026-11-22T18:30:02Z",
     "IAH|FRA|mid|business": "2026-11-22T18:30:02Z",

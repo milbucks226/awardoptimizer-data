@@ -447,7 +447,7 @@
     "LAS": {
       "near": {
         "LHR": 2335,
-        "CDG": 2227,
+        "CDG": 2303,
         "AMS": 1986,
         "FRA": 2039,
         "FCO": 2474,
@@ -534,7 +534,7 @@
         "ITO": 1143
       },
       "mid": {
-        "LHR": 2073,
+        "LHR": 2072,
         "CDG": 2415,
         "AMS": 2095,
         "FRA": 2375,
@@ -1145,9 +1145,9 @@
     "LAS|IAH|far": "2026-11-22T14:30:01Z",
     "LAS|IAH|mid": "2026-11-22T14:30:01Z",
     "LAS|LHR|near|business": "2026-11-23T04:30:02Z",
-    "LAS|LHR|mid|business": "2026-11-15T16:20:02Z",
+    "LAS|LHR|mid|business": "2026-11-23T05:00:01Z",
     "LAS|LHR|far|business": "2026-11-15T16:40:02Z",
-    "LAS|CDG|near|business": "2026-11-15T16:20:02Z",
+    "LAS|CDG|near|business": "2026-11-23T05:00:01Z",
     "LAS|CDG|mid|business": "2026-11-15T16:20:02Z",
     "LAS|CDG|far|business": "2026-11-15T16:40:02Z",
     "LAS|AMS|near|business": "2026-11-15T16:40:02Z",

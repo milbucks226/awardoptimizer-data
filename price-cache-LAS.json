@@ -446,7 +446,7 @@
   "business": {
     "LAS": {
       "near": {
-        "LHR": 2073,
+        "LHR": 2335,
         "CDG": 2227,
         "AMS": 1986,
         "FRA": 2039,
@@ -1144,7 +1144,7 @@
     "LAS|MCO|far": "2026-11-22T14:30:01Z",
     "LAS|IAH|far": "2026-11-22T14:30:01Z",
     "LAS|IAH|mid": "2026-11-22T14:30:01Z",
-    "LAS|LHR|near|business": "2026-11-15T16:20:02Z",
+    "LAS|LHR|near|business": "2026-11-23T04:30:02Z",
     "LAS|LHR|mid|business": "2026-11-15T16:20:02Z",
     "LAS|LHR|far|business": "2026-11-15T16:40:02Z",
     "LAS|CDG|near|business": "2026-11-15T16:20:02Z",
